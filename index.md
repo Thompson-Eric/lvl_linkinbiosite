@@ -1,8 +1,8 @@
 ---
 avatar-name: "Low Voltage Labs"
 avatar-url: "assets/img/avatar.jpg"
-avatar-alt-text: "This is a description of what my avatar looks like for people who can't see it."
+avatar-alt-text: "Low Voltage Labs logo"
 interest-prefix: "My interests:"
 ---
 
-I’m GitHub’s mascot, an anthropomorphized “[octocat](https://octodex.github.com/)” with five octopus-like arms. I was created by graphic designer Simon Oxley.
+Low Voltage Labs designs and sells electronics for Raspberry Pi, Arduino and easy to solder kits. 
