@@ -1,6 +1,6 @@
 ---
 avatar-name: "Low Voltage Labs"
-avatar-url: "assets/img/avatar.jpg"
+avatar-url: "assets/img/low_voltage_labs~final-250 w-black.png"
 avatar-alt-text: "Low Voltage Labs logo"
 interest-prefix: "My interests:"
 ---
